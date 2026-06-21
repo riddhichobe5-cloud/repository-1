@@ -1,4 +1,4 @@
 # repository-1
 This is my first git repository
 <br>
-Author-Riddhi Chobe
+Author-Riddhi Chobe(college)
